@@ -42,3 +42,8 @@ I am a **Data Analyst / Data Engineer** passionate about turning raw manufacturi
 
 ### 📈 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radial)
+
+
+<p align="center">
+  <img src="Screenshot (13).png" alt="QA Tool Tracking Dashboard" width="600" style="border-radius: 8px; border: 1px solid #ddd;">
+</p>
